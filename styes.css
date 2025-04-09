@@ -1,0 +1,26 @@
+body {
+        font-family: Arial, sans-serif;
+        text-align: center;
+        margin-top: 20px;
+    }
+
+    #scanner-container {
+        width: 100%;
+        max-width: 500px;
+        margin: auto;
+    }
+
+    #scanner {
+        width: 100%;
+        height: auto;
+        border: 2px solid #2196f3;
+        border-radius: 10px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    }
+
+    #result {
+        margin-top: 20px;
+        font-size: 1.3rem;
+        color: green;
+        font-weight: bold;
+    }
